@@ -70,7 +70,8 @@ This project was a simple and effective way to apply cybersecurity concepts usin
 
 ## 💻 OUTPUT 
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/877827af-0b94-4e57-be7e-263db5c8ca57" />
+![image](https://github.com/user-attachments/assets/a50962c2-0408-4bb7-ab42-9f6928f0adbf)
+
 
 
 
