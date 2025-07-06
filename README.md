@@ -68,7 +68,9 @@ This project was a simple and effective way to apply cybersecurity concepts usin
 
 ---
 
-## OUTPUT
+## 💻 OUTPUT 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/877827af-0b94-4e57-be7e-263db5c8ca57" />
 
 
 
