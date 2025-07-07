@@ -32,7 +32,7 @@ In cybersecurity, it is essential to verify that files remain unchanged. Even a 
 - `hashlib` – SHA-256 hash generation  
 - `os` – File and folder handling  
 - Python – File I/O and logic  
-- IDEL – Used to run and test the script  
+- IDLE – Used to run and test the script  
 
 ---
 
@@ -42,7 +42,7 @@ In cybersecurity, it is essential to verify that files remain unchanged. Even a 
                     file_integrity.py
                     Test files like test.txt
                   
- 2) Open file_integrity.py in IDEL and run it.
+ 2) Open file_integrity.py in IDLE and run it.
                   
  3) Choose:
      1. to save hashes (first time)
